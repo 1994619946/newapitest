@@ -1,1 +1,1 @@
-{"_id":"5d41803e120c630bca6a0bd4","name":"newapitest","collections":{}}
+{"name":"newapitest","collections":[{"_id":"5d418078120c630bca6a0bd5","user":"5d41721966cd667b38ad26b6","project":"newapitest","collectionName":"food","structure":{"name":"String","price":"Number","avaiilabity":"Boolean"},"createdAt":"2019-07-31T11:50:16.607Z","updatedAt":"2019-07-31T11:50:16.607Z","__v":0}]}
